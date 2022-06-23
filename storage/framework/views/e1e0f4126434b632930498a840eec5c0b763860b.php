@@ -1,0 +1,1 @@
+<?php echo $__env->make('Biodiesel.header', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?><?php /**PATH C:\Laravel\Biodiesel\resources\views/LoginUser/loginuser.blade.php ENDPATH**/ ?>
